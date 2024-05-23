@@ -12,3 +12,4 @@ D:\Leet Code\Palindrome Number\obj\Debug\net8.0\refint\Palindrome Number.dll
 D:\Leet Code\Palindrome Number\obj\Debug\net8.0\Palindrome Number.pdb
 D:\Leet Code\Palindrome Number\obj\Debug\net8.0\Palindrome Number.genruntimeconfig.cache
 D:\Leet Code\Palindrome Number\obj\Debug\net8.0\ref\Palindrome Number.dll
+D:\Leet Code\Palindrome Number\obj\Debug\net8.0\Palindrome Number.sourcelink.json
