@@ -1,1 +1,1 @@
-# a newbies journey tring to solve bunch of leet code problems!
+# a newbies journey trying to solve bunch of leet code problems!
