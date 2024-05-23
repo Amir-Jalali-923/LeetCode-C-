@@ -1,0 +1,15 @@
+D:\Leet Code\Roman to Integer\obj\Debug\net8.0\Roman to Integer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leet Code\Roman to Integer\obj\Debug\net8.0\Roman to Integer.AssemblyInfoInputs.cache
+D:\Leet Code\Roman to Integer\obj\Debug\net8.0\Roman to Integer.AssemblyInfo.cs
+D:\Leet Code\Roman to Integer\obj\Debug\net8.0\Roman to Integer.csproj.CoreCompileInputs.cache
+D:\Leet Code\Roman to Integer\obj\Debug\net8.0\Roman to Integer.sourcelink.json
+D:\Leet Code\Roman to Integer\bin\Debug\net8.0\Roman to Integer.exe
+D:\Leet Code\Roman to Integer\bin\Debug\net8.0\Roman to Integer.deps.json
+D:\Leet Code\Roman to Integer\bin\Debug\net8.0\Roman to Integer.runtimeconfig.json
+D:\Leet Code\Roman to Integer\bin\Debug\net8.0\Roman to Integer.dll
+D:\Leet Code\Roman to Integer\bin\Debug\net8.0\Roman to Integer.pdb
+D:\Leet Code\Roman to Integer\obj\Debug\net8.0\Roman to Integer.dll
+D:\Leet Code\Roman to Integer\obj\Debug\net8.0\refint\Roman to Integer.dll
+D:\Leet Code\Roman to Integer\obj\Debug\net8.0\Roman to Integer.pdb
+D:\Leet Code\Roman to Integer\obj\Debug\net8.0\Roman to Integer.genruntimeconfig.cache
+D:\Leet Code\Roman to Integer\obj\Debug\net8.0\ref\Roman to Integer.dll
