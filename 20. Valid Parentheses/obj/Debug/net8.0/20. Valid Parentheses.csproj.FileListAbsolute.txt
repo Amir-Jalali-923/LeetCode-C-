@@ -1,0 +1,15 @@
+D:\Leet Code\20. Valid Parentheses\obj\Debug\net8.0\20. Valid Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leet Code\20. Valid Parentheses\obj\Debug\net8.0\20. Valid Parentheses.AssemblyInfoInputs.cache
+D:\Leet Code\20. Valid Parentheses\obj\Debug\net8.0\20. Valid Parentheses.AssemblyInfo.cs
+D:\Leet Code\20. Valid Parentheses\obj\Debug\net8.0\20. Valid Parentheses.csproj.CoreCompileInputs.cache
+D:\Leet Code\20. Valid Parentheses\obj\Debug\net8.0\20. Valid Parentheses.sourcelink.json
+D:\Leet Code\20. Valid Parentheses\bin\Debug\net8.0\20. Valid Parentheses.exe
+D:\Leet Code\20. Valid Parentheses\bin\Debug\net8.0\20. Valid Parentheses.deps.json
+D:\Leet Code\20. Valid Parentheses\bin\Debug\net8.0\20. Valid Parentheses.runtimeconfig.json
+D:\Leet Code\20. Valid Parentheses\bin\Debug\net8.0\20. Valid Parentheses.dll
+D:\Leet Code\20. Valid Parentheses\bin\Debug\net8.0\20. Valid Parentheses.pdb
+D:\Leet Code\20. Valid Parentheses\obj\Debug\net8.0\20. Valid Parentheses.dll
+D:\Leet Code\20. Valid Parentheses\obj\Debug\net8.0\refint\20. Valid Parentheses.dll
+D:\Leet Code\20. Valid Parentheses\obj\Debug\net8.0\20. Valid Parentheses.pdb
+D:\Leet Code\20. Valid Parentheses\obj\Debug\net8.0\20. Valid Parentheses.genruntimeconfig.cache
+D:\Leet Code\20. Valid Parentheses\obj\Debug\net8.0\ref\20. Valid Parentheses.dll
