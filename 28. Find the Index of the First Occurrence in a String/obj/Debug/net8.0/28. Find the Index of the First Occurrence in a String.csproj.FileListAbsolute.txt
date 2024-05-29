@@ -1,0 +1,15 @@
+D:\Leet Code\28. Find the Index of the First Occurrence in a String\bin\Debug\net8.0\28. Find the Index of the First Occurrence in a String.exe
+D:\Leet Code\28. Find the Index of the First Occurrence in a String\bin\Debug\net8.0\28. Find the Index of the First Occurrence in a String.deps.json
+D:\Leet Code\28. Find the Index of the First Occurrence in a String\bin\Debug\net8.0\28. Find the Index of the First Occurrence in a String.runtimeconfig.json
+D:\Leet Code\28. Find the Index of the First Occurrence in a String\bin\Debug\net8.0\28. Find the Index of the First Occurrence in a String.dll
+D:\Leet Code\28. Find the Index of the First Occurrence in a String\bin\Debug\net8.0\28. Find the Index of the First Occurrence in a String.pdb
+D:\Leet Code\28. Find the Index of the First Occurrence in a String\obj\Debug\net8.0\28. Find the Index of the First Occurrence in a String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leet Code\28. Find the Index of the First Occurrence in a String\obj\Debug\net8.0\28. Find the Index of the First Occurrence in a String.AssemblyInfoInputs.cache
+D:\Leet Code\28. Find the Index of the First Occurrence in a String\obj\Debug\net8.0\28. Find the Index of the First Occurrence in a String.AssemblyInfo.cs
+D:\Leet Code\28. Find the Index of the First Occurrence in a String\obj\Debug\net8.0\28. Find the Index of the First Occurrence in a String.csproj.CoreCompileInputs.cache
+D:\Leet Code\28. Find the Index of the First Occurrence in a String\obj\Debug\net8.0\28. Find the Index of the First Occurrence in a String.sourcelink.json
+D:\Leet Code\28. Find the Index of the First Occurrence in a String\obj\Debug\net8.0\28. Find the Index of the First Occurrence in a String.dll
+D:\Leet Code\28. Find the Index of the First Occurrence in a String\obj\Debug\net8.0\refint\28. Find the Index of the First Occurrence in a String.dll
+D:\Leet Code\28. Find the Index of the First Occurrence in a String\obj\Debug\net8.0\28. Find the Index of the First Occurrence in a String.pdb
+D:\Leet Code\28. Find the Index of the First Occurrence in a String\obj\Debug\net8.0\28. Find the Index of the First Occurrence in a String.genruntimeconfig.cache
+D:\Leet Code\28. Find the Index of the First Occurrence in a String\obj\Debug\net8.0\ref\28. Find the Index of the First Occurrence in a String.dll
