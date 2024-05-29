@@ -1,0 +1,15 @@
+D:\Leet Code\27. Remove Element\obj\Debug\net8.0\27. Remove Element.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leet Code\27. Remove Element\obj\Debug\net8.0\27. Remove Element.AssemblyInfoInputs.cache
+D:\Leet Code\27. Remove Element\obj\Debug\net8.0\27. Remove Element.AssemblyInfo.cs
+D:\Leet Code\27. Remove Element\obj\Debug\net8.0\27. Remove Element.csproj.CoreCompileInputs.cache
+D:\Leet Code\27. Remove Element\obj\Debug\net8.0\27. Remove Element.sourcelink.json
+D:\Leet Code\27. Remove Element\bin\Debug\net8.0\27. Remove Element.exe
+D:\Leet Code\27. Remove Element\bin\Debug\net8.0\27. Remove Element.deps.json
+D:\Leet Code\27. Remove Element\bin\Debug\net8.0\27. Remove Element.runtimeconfig.json
+D:\Leet Code\27. Remove Element\bin\Debug\net8.0\27. Remove Element.dll
+D:\Leet Code\27. Remove Element\bin\Debug\net8.0\27. Remove Element.pdb
+D:\Leet Code\27. Remove Element\obj\Debug\net8.0\27. Remove Element.dll
+D:\Leet Code\27. Remove Element\obj\Debug\net8.0\refint\27. Remove Element.dll
+D:\Leet Code\27. Remove Element\obj\Debug\net8.0\27. Remove Element.pdb
+D:\Leet Code\27. Remove Element\obj\Debug\net8.0\27. Remove Element.genruntimeconfig.cache
+D:\Leet Code\27. Remove Element\obj\Debug\net8.0\ref\27. Remove Element.dll
