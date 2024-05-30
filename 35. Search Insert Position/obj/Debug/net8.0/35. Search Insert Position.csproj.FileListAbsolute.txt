@@ -1,0 +1,15 @@
+D:\Leet Code\35. Search Insert Position\obj\Debug\net8.0\35. Search Insert Position.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leet Code\35. Search Insert Position\obj\Debug\net8.0\35. Search Insert Position.AssemblyInfoInputs.cache
+D:\Leet Code\35. Search Insert Position\obj\Debug\net8.0\35. Search Insert Position.AssemblyInfo.cs
+D:\Leet Code\35. Search Insert Position\obj\Debug\net8.0\35. Search Insert Position.csproj.CoreCompileInputs.cache
+D:\Leet Code\35. Search Insert Position\obj\Debug\net8.0\35. Search Insert Position.sourcelink.json
+D:\Leet Code\35. Search Insert Position\bin\Debug\net8.0\35. Search Insert Position.exe
+D:\Leet Code\35. Search Insert Position\bin\Debug\net8.0\35. Search Insert Position.deps.json
+D:\Leet Code\35. Search Insert Position\bin\Debug\net8.0\35. Search Insert Position.runtimeconfig.json
+D:\Leet Code\35. Search Insert Position\bin\Debug\net8.0\35. Search Insert Position.dll
+D:\Leet Code\35. Search Insert Position\bin\Debug\net8.0\35. Search Insert Position.pdb
+D:\Leet Code\35. Search Insert Position\obj\Debug\net8.0\35. Search Insert Position.dll
+D:\Leet Code\35. Search Insert Position\obj\Debug\net8.0\refint\35. Search Insert Position.dll
+D:\Leet Code\35. Search Insert Position\obj\Debug\net8.0\35. Search Insert Position.pdb
+D:\Leet Code\35. Search Insert Position\obj\Debug\net8.0\35. Search Insert Position.genruntimeconfig.cache
+D:\Leet Code\35. Search Insert Position\obj\Debug\net8.0\ref\35. Search Insert Position.dll
