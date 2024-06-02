@@ -1,0 +1,15 @@
+D:\Leet Code\66. Plus One\obj\Debug\net8.0\66. Plus One.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leet Code\66. Plus One\obj\Debug\net8.0\66. Plus One.AssemblyInfoInputs.cache
+D:\Leet Code\66. Plus One\obj\Debug\net8.0\66. Plus One.AssemblyInfo.cs
+D:\Leet Code\66. Plus One\obj\Debug\net8.0\66. Plus One.csproj.CoreCompileInputs.cache
+D:\Leet Code\66. Plus One\obj\Debug\net8.0\66. Plus One.sourcelink.json
+D:\Leet Code\66. Plus One\bin\Debug\net8.0\66. Plus One.exe
+D:\Leet Code\66. Plus One\bin\Debug\net8.0\66. Plus One.deps.json
+D:\Leet Code\66. Plus One\bin\Debug\net8.0\66. Plus One.runtimeconfig.json
+D:\Leet Code\66. Plus One\bin\Debug\net8.0\66. Plus One.dll
+D:\Leet Code\66. Plus One\bin\Debug\net8.0\66. Plus One.pdb
+D:\Leet Code\66. Plus One\obj\Debug\net8.0\66. Plus One.dll
+D:\Leet Code\66. Plus One\obj\Debug\net8.0\refint\66. Plus One.dll
+D:\Leet Code\66. Plus One\obj\Debug\net8.0\66. Plus One.pdb
+D:\Leet Code\66. Plus One\obj\Debug\net8.0\66. Plus One.genruntimeconfig.cache
+D:\Leet Code\66. Plus One\obj\Debug\net8.0\ref\66. Plus One.dll
