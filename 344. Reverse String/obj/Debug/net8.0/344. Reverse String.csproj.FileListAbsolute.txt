@@ -1,0 +1,15 @@
+D:\Leet Code\344. Reverse String\obj\Debug\net8.0\344. Reverse String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leet Code\344. Reverse String\obj\Debug\net8.0\344. Reverse String.AssemblyInfoInputs.cache
+D:\Leet Code\344. Reverse String\obj\Debug\net8.0\344. Reverse String.AssemblyInfo.cs
+D:\Leet Code\344. Reverse String\obj\Debug\net8.0\344. Reverse String.csproj.CoreCompileInputs.cache
+D:\Leet Code\344. Reverse String\obj\Debug\net8.0\344. Reverse String.sourcelink.json
+D:\Leet Code\344. Reverse String\bin\Debug\net8.0\344. Reverse String.exe
+D:\Leet Code\344. Reverse String\bin\Debug\net8.0\344. Reverse String.deps.json
+D:\Leet Code\344. Reverse String\bin\Debug\net8.0\344. Reverse String.runtimeconfig.json
+D:\Leet Code\344. Reverse String\bin\Debug\net8.0\344. Reverse String.dll
+D:\Leet Code\344. Reverse String\bin\Debug\net8.0\344. Reverse String.pdb
+D:\Leet Code\344. Reverse String\obj\Debug\net8.0\344. Reverse String.dll
+D:\Leet Code\344. Reverse String\obj\Debug\net8.0\refint\344. Reverse String.dll
+D:\Leet Code\344. Reverse String\obj\Debug\net8.0\344. Reverse String.pdb
+D:\Leet Code\344. Reverse String\obj\Debug\net8.0\344. Reverse String.genruntimeconfig.cache
+D:\Leet Code\344. Reverse String\obj\Debug\net8.0\ref\344. Reverse String.dll
