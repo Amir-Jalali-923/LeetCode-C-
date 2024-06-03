@@ -1,0 +1,15 @@
+D:\Leet Code\67. Add Binary\obj\Debug\net8.0\67. Add Binary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leet Code\67. Add Binary\obj\Debug\net8.0\67. Add Binary.AssemblyInfoInputs.cache
+D:\Leet Code\67. Add Binary\obj\Debug\net8.0\67. Add Binary.AssemblyInfo.cs
+D:\Leet Code\67. Add Binary\obj\Debug\net8.0\67. Add Binary.csproj.CoreCompileInputs.cache
+D:\Leet Code\67. Add Binary\obj\Debug\net8.0\67. Add Binary.sourcelink.json
+D:\Leet Code\67. Add Binary\bin\Debug\net8.0\67. Add Binary.exe
+D:\Leet Code\67. Add Binary\bin\Debug\net8.0\67. Add Binary.deps.json
+D:\Leet Code\67. Add Binary\bin\Debug\net8.0\67. Add Binary.runtimeconfig.json
+D:\Leet Code\67. Add Binary\bin\Debug\net8.0\67. Add Binary.dll
+D:\Leet Code\67. Add Binary\bin\Debug\net8.0\67. Add Binary.pdb
+D:\Leet Code\67. Add Binary\obj\Debug\net8.0\67. Add Binary.dll
+D:\Leet Code\67. Add Binary\obj\Debug\net8.0\refint\67. Add Binary.dll
+D:\Leet Code\67. Add Binary\obj\Debug\net8.0\67. Add Binary.pdb
+D:\Leet Code\67. Add Binary\obj\Debug\net8.0\67. Add Binary.genruntimeconfig.cache
+D:\Leet Code\67. Add Binary\obj\Debug\net8.0\ref\67. Add Binary.dll
